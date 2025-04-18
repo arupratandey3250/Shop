@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\User\\Downloads\\jfreechart-1.0.19\\jfreechart-1.0.19\\jfreechart-1.0.19-demo.jar",
+        "c:\\Users\\User\\Downloads\\jcommon-1.0.23\\jcommon-1.0.23\\jcommon-1.0.23.jar",
+        "c:\\Users\\User\\Downloads\\jcommon-1.0.23\\jcommon-1.0.23\\jcommon-xml-1.0.23.jar",
+        "c:\\Users\\User\\Downloads\\jfreechart-1.0.19-demo.jar",
+        "c:\\Users\\User\\Downloads\\jcommon-1.0.23.jar",
+        "c:\\Users\\User\\Downloads\\jcommon-xml-1.0.23.jar"
+    ]
+}
