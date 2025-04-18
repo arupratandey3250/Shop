@@ -60,3 +60,7 @@ A Java-based desktop application for managing cafe operations including menu vie
 - Menu buttons for different functionalities
 - Interactive order interface
 - Review submission form
+
+
+## Role Select
+![logo](https://github.com/arupratandey3250/Shop/blob/main/Role_Select.png)
