@@ -91,7 +91,7 @@ coffee-shop/
 
 ## Customer Review
 
-![Customer Review](https://github.com/arupratandey3250/Shop/blob/main/RoleSelect.png)
+![Customer Review](https://github.com/arupratandey3250/Shop/blob/main/CustomerReview.png)
 
 ## Sales Report
 
