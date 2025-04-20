@@ -83,7 +83,7 @@ coffee-shop/
 
 ## Take Order
 
-![Take Order](https://github.com/arupratandey3250/Shop/blob/main/RoleSelect.png)
+![Take Order](https://github.com/arupratandey3250/Shop/blob/main/TakeOrder.png)
 
 ## Reciept
 
