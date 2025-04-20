@@ -99,7 +99,7 @@ coffee-shop/
 
 ## Sales Chart
 
-![Sales Chart](https://github.com/arupratandey3250/Shop/blob/main/RoleSelect.png)
+![Sales Chart](https://github.com/arupratandey3250/Shop/blob/main/SalesChart.png)
 
 ## Contact
 ### For support or inquiries, please contact:
