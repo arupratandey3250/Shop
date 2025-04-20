@@ -67,7 +67,7 @@ coffee-shop/
 
 ## Admin Login
 
-![Admin Login](https://github.com/arupratandey3250/Shop/blob/main/RoleSelect.png)
+![Admin Login](https://github.com/arupratandey3250/Shop/blob/main/AdminLogin.png)
 
 ## Customer
 
