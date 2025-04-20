@@ -65,6 +65,41 @@ coffee-shop/
 ![Role Select](https://github.com/arupratandey3250/Shop/blob/main/RoleSelect.png)
 
 
+## Admin Login
+
+![Admin Login](https://github.com/arupratandey3250/Shop/blob/main/RoleSelect.png)
+
+## Customer
+
+![Customer](https://github.com/arupratandey3250/Shop/blob/main/RoleSelect.png)
+
+## Admin
+
+![Admin](https://github.com/arupratandey3250/Shop/blob/main/RoleSelect.png)
+
+## Menu
+
+![Menu](https://github.com/arupratandey3250/Shop/blob/main/RoleSelect.png)
+
+## Take Order
+
+![Take Order](https://github.com/arupratandey3250/Shop/blob/main/RoleSelect.png)
+
+## Reciept
+
+![Reciept](https://github.com/arupratandey3250/Shop/blob/main/RoleSelect.png)
+
+## Customer Review
+
+![Customer Review](https://github.com/arupratandey3250/Shop/blob/main/RoleSelect.png)
+
+## Sales Report
+
+![Sales Report](https://github.com/arupratandey3250/Shop/blob/main/RoleSelect.png)
+
+## Sales Chart
+
+![Sales Chart](https://github.com/arupratandey3250/Shop/blob/main/RoleSelect.png)
 
 ## Contact
 ### For support or inquiries, please contact:
