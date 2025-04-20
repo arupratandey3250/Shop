@@ -71,7 +71,7 @@ coffee-shop/
 
 ## Customer
 
-![Customer](https://github.com/arupratandey3250/Shop/blob/main/RoleSelect.png)
+![Customer](https://github.com/arupratandey3250/Shop/blob/main/Customer.png)
 
 ## Admin
 
