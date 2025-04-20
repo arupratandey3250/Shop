@@ -95,7 +95,7 @@ coffee-shop/
 
 ## Sales Report
 
-![Sales Report](https://github.com/arupratandey3250/Shop/blob/main/RoleSelect.png)
+![Sales Report](https://github.com/arupratandey3250/Shop/blob/main/SalesReport.png)
 
 ## Sales Chart
 
