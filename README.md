@@ -1,66 +1,76 @@
-# Cafe Management System
+# ARUP'S COFFEE SUITES - Management System
 
-A Java-based desktop application for managing cafe operations including menu viewing, order processing, customer reviews, and sales analytics.
+<!-- ![Coffee Shop Logo](https://via.placeholder.com/150) <!-- Replace with actual logo -->
+
+A complete Java-based coffee shop management system with customer ordering, admin controls, sales tracking, and review features.
 
 ## Features
 
-### Authentication
-- Dual login system (Admin & User)
-- Admin credentials: username="arup", password="3250"
+### Customer Interface
+- **Menu Display**: View the full coffee shop menu with images
+- **Order System**: Interactive ordering interface with item selection
+- **Review System**: Submit ratings and reviews with photo uploads
 
-### User Features
-- **View Menu**: Displays the cafe's menu card
-- **Place Orders**: Interactive order interface with:
-  - Sandwich selection
-  - Coffee selection
-  - Order modification capabilities
-- **Submit Reviews**: 
-  - Star ratings (1-5)
-  - Text comments
-  - Image uploads
-  - Review display section
+### Admin Interface
+- **Sales Reports**: View detailed transaction history
+- **Analytics Dashboard**: Visual sales data with pie charts
+- **Admin Authentication**: Secure login system
 
-### Admin Features
-- **Sales Reports**: View all transaction records
-- **Sales Analytics**: Visual pie chart of sales distribution
-- **All User Features**
-
-## Technical Details
-
-### Technologies Used
+## Technologies Used
 - Java Swing for GUI
 - JFreeChart for data visualization
 - File I/O for data persistence
+- Gradients and custom UI components for modern look
 
-### File Structure
-- `sales.txt`: Stores order transactions
-- `reviews.txt`: Stores customer reviews
-- `reviews_images/`: Directory for review images
+## Compile and run:
 
-### Design Patterns
-- MVC-like architecture
-- Singleton pattern for main application window
-- Observer pattern for UI updates
+- bash
+- javac Shop.java
+- java Shop
 
-## Installation & Usage
+## System Requirements
+- Minimum: 2GB RAM, Java Runtime Environment
+- Recommended: 4GB RAM, 1920×1080 display
 
-### Requirements
-- Java 8 or higher
-- JFreeChart library (included in most Java IDEs)
+## Usage Guide
+### For Customers
+- Select "Customer Entry" from the main screen
+- Browse the menu or place an order
+- Submit reviews for your experience
 
-### Running the Application
-1. Compile all Java files:
-   ```bash
-   javac Shop.java
-   java Shop
-## Using the System
-- Select login type (User/Admin)
-- For admin, enter credentials
-- Navigate through the intuitive GUI:
-- Menu buttons for different functionalities
-- Interactive order interface
-- Review submission form
+### For Administrators
+- Select "Admin Login" (credentials: arup/3250)
+- Access sales reports and analytics
+- View customer feedback
+
+# File Structure
+coffee-shop/
+├── src/
+│   ├── Shop.java            # Main entry point
+│   ├── CafeApp.java         # Main application window
+│   ├── MenuScreen.java      # Menu display
+│   ├── OrderScreen.java     # Order management
+│   ├── ReviewScreen.java    # Customer reviews
+│   ├── SalesReport.java     # Sales data
+│   └── SalesChart.java      # Data visualization
+├── data/
+│   ├── sales.txt            # Transaction records
+│   └── reviews.txt          # Customer feedback
+└── images/                  # Menu and UI assets
+
 
 
 ## Role Select
-![logo](https://github.com/arupratandey3250/Shop/blob/main/Role_Select.png)
+
+![Role Select](https://via.placeholder.com/150)
+
+
+
+## Contact
+### For support or inquiries, please contact:
+
+- Arup Ratan Dey
+
+- Email: arupratandey3250@gmail.com
+
+- Phone: +880 1306447688
