@@ -75,7 +75,7 @@ coffee-shop/
 
 ## Admin
 
-![Admin](https://github.com/arupratandey3250/Shop/blob/main/RoleSelect.png)
+![Admin](https://github.com/arupratandey3250/Shop/blob/main/Admin.png)
 
 ## Menu
 
