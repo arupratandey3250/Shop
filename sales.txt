@@ -1,0 +1,3 @@
+Order #1 | 2025-04-20 14:10:21 | Items: 9 | Subtotal: $60.25 | Tax: $6.03 | Total: $66.28 | Order: {Philly Cheese Steak=1, Espresso=1, Vegetarian Delight=3, Americano=2, Classic Reuben=2}
+Order #2 | 2025-04-20 14:12:00 | Items: 3 | Subtotal: $20.75 | Tax: $2.08 | Total: $22.83 | Order: {Vegetarian Delight=1, Classic Reuben=1, Flat White=1}
+Order #3 | 2025-04-20 14:12:08 | Items: 3 | Subtotal: $13.50 | Tax: $1.35 | Total: $14.85 | Order: {Espresso=2, Turkey BLT=1}

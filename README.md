@@ -62,7 +62,8 @@ coffee-shop/
 
 ## Role Select
 
-![Role Select](https://via.placeholder.com/150)
+
+![Role Select](https://github.com/arupratandey3250/Shop/blob/main/RoleSelect.png)
 
 
 
