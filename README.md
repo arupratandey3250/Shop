@@ -87,7 +87,7 @@ coffee-shop/
 
 ## Reciept
 
-![Reciept](https://github.com/arupratandey3250/Shop/blob/main/RoleSelect.png)
+![Reciept](https://github.com/arupratandey3250/Shop/blob/main/Reciept.png)
 
 ## Customer Review
 
