@@ -1,6 +1,6 @@
 # ARUP'S COFFEE SUITES - Management System
 
-<!-- ![Coffee Shop Logo](https://via.placeholder.com/150) <!-- Replace with actual logo -->
+![Coffee Shop Logo](https://github.com/arupratandey3250/Shop/blob/main/Logo.png)
 
 A complete Java-based coffee shop management system with customer ordering, admin controls, sales tracking, and review features.
 

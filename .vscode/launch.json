@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Shop_4913de1f"
+        },
+        {
+            "type": "java",
             "name": "Shop",
             "request": "launch",
             "mainClass": "Shop",
